@@ -1,2 +1,1 @@
-# Trendcozy
-Built with Spring Boot and integrated with a seamless React.js frontend, Trendcozy offers a luxurious shopping experience with cutting-edge technology. Featuring a robust backend powered by H2 Console for quick development and tested thoroughly using Postman, this platform is designed for excellence and scalability.
+Built with Spring Boot, Trendcozy offers a seamless shopping experience with a powerful backend. It features a MySQL database for reliable data management and has been thoroughly tested using Postman to ensure performance and accuracy. Currently, the project focuses on backend development, with frontend integration planned for the future.
